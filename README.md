@@ -1,3 +1,11 @@
+# Repository moved
+
+This repository has moved to:
+
+**https://github.com/bsnisarchuk-oss/tokenlistings**
+
+Please use the new repository for the latest public portfolio version of the project.
+
 # TokenListings — Crypto Listing Tracker Bot
 
 [![CI](https://github.com/bsnisarchuk-oss/new-coin/actions/workflows/ci.yml/badge.svg)](https://github.com/bsnisarchuk-oss/new-coin/actions/workflows/ci.yml)
